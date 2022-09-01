@@ -4,7 +4,4 @@
 #####################
 
 
-# PSEUDOCODE
-
-
-# get and store the desired ratio from the user input
+# 💻 YOUR PSEUDOCODE AND PYTHON CODE GO BELOW #
