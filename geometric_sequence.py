@@ -4,4 +4,7 @@
 #####################
 
 
+# PSEUDOCODE
+
+
 # get and store the desired ratio from the user input
