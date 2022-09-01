@@ -4,4 +4,8 @@
 #####################
 
 
-# 💻 YOUR PSEUDOCODE AND PYTHON CODE GO BELOW #
+# 💻 Finish the Pseudocode below #
+
+
+# store the starting number, 1, in a variable 
+# ask the user what the ratio should be and store it in a variable 
