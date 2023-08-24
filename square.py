@@ -1,7 +1,4 @@
-#####################
-# Unit 0 Lab 2 
-# loops_square.py
-#####################
+# square.py
 
 from turtle import *
 
