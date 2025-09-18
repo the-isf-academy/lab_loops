@@ -11,3 +11,10 @@ from turtle import *
     # print num
     # update the value of num to num * ratio 
 
+num = 1
+ratio = int(input("What should the ratio of the sequence be? "))
+
+for i in range (10):
+    forward(num)
+    num *= ratio
+    right(90)
